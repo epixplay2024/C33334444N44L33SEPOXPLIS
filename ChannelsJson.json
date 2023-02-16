@@ -20,6 +20,25 @@
          ]
       },
       {
+         "id":"1",
+         "channelName":"My TV 1",
+         "channelImage":"https://www.freevector.com/uploads/vector/preview/31304/large_1x_FreevectorAutumn-Fall-General-Forest-SceneryBackgroundMf0721_generated.jpg",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://sportsonline.to/channels/pt/sporttv1.php",
+               "contentHost":"DoodStream"
+            },
+            {
+               "quality":"Auto Player",
+               "playerType":"auto",
+               "url":"https://sportsonline.to/channels/pt/sporttv1.php",
+               "contentHost":"DoodStream"
+            }
+         ]
+      },
+      {
          "id":"2",
          "channelName":"My TV 2",
          "channelImage":"https://www.freevector.com/uploads/vector/preview/31306/large_1x_Revision_Freevector_Pastel-Purple_Background_Mf0621.jpg",
