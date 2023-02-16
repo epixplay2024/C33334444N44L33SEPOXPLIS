@@ -58,4 +58,41 @@
          ]
       }
    ]
-}
+},
+{
+         "id":"4",
+         "channelName":"HBO",
+         "channelImage":"https://image.pngaaa.com/551/1949551-middle.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1250",
+               "contentHost":"Tv en vivo"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.ver-television.online/canal-hbo-en-vivo",
+               "contentHost":"XD"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.ver-television.online/canal-hbo-en-vivo",
+               "contentHost":"3"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://verlatelevision.com/hbo-en-vivo-online/",
+               "contentHost":"4"
+            },
+             {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExNDAvbWFuaWZlc3QubXBk&k1=OTllZWZjMDY4ZGIzNTA5YjlmMGNmNWIzNDExNDIxOWQ=&k2=NmMyM2UzMWE0ZDgzYjU2OGU4NGFlYzYwOWE2M2ViYzk=&lang=0&aut=false",
+               "contentHost":"5"
+            }
+         ]
+      }
