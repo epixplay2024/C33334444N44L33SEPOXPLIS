@@ -39,25 +39,6 @@
          ]
       },
       {
-         "id":"3",
-         "channelName":"My TV 2",
-         "channelImage":"https://www.freevector.com/uploads/vector/preview/31306/large_1x_Revision_Freevector_Pastel-Purple_Background_Mf0621.jpg",
-         "channelLinks":[
-            {
-               "quality":"Forced Embed",
-               "playerType":"embed",
-               "url":"https://sportsonline.to/channels/pt/sporttv1.php",
-               "contentHost":"DoodStream"
-            },
-            {
-               "quality":"Auto Player",
-               "playerType":"auto",
-               "url":"https://sportsonline.to/channels/pt/sporttv1.php",
-               "contentHost":"DoodStream"
-            }
-         ]
-      },
-      {
          "id":"4",
          "channelName":"My TV 3",
          "channelImage":"https://www.freevector.com/uploads/vector/preview/31306/large_1x_Revision_Freevector_Pastel-Purple_Background_Mf0621.jpg",
