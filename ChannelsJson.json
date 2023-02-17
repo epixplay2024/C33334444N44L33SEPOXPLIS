@@ -2,26 +2,26 @@
    "channels":[
       {
          "id":"1",
-         "channelName":"My",
-         "channelImage":"https://image.pngaaa.com/551/1949551-middle.png",
+         "channelName":"HBO",
+         "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
          "channelLinks":[
             {
                "quality":"Forced Embed",
                "playerType":"embed",
-               "url":"https://sportsonline.to/channels/pt/sporttv1.php",
-               "contentHost":"DoodStream"
+               "url":"https://crytonep.github.io/mtonline/hbo.html",
+               "contentHost":"Con los dedos haz Zoom"
             },
             {
-               "quality":"Auto Player",
-               "playerType":"auto",
-               "url":"https://sportsonline.to/channels/pt/sporttv1.php",
-               "contentHost":"DoodStream"
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://megatelevisionhd.com/embed/?url=Ly9saXZlNS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvSEJPLUhEL2RlZmF1bHQubXBk&kid=ZGYxOGY2YTA1YmFiMjhkODllNWRjMDFkODhmNGRlYjg=&k=YmFjZWI1MjU0NjdjMGRiMjJiYTgzMDkwNjE2YzFhZDA=&lang=0",
+               "contentHost":"Doble clic con dedos"
             }
          ]
       },
       {
          "id":"4",
-         "channelName":"HBO",
+         "channelName":"HBO 2",
          "channelImage":"https://www.nicepng.com/png/detail/223-2235889_hbo-icon-angry-neighbor-hello-from-home-apk.png",
          "channelLinks":[
             {
