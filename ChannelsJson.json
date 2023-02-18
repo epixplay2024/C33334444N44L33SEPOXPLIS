@@ -56,6 +56,26 @@
             }
          ]
       },
+      
+      {
+         "id":"3",
+         "channelName":"	DIRECTV SPORTS PLUS",
+         "channelImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.televisiongratishd.com/live/directvsports.php",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
       {
          "id":"3",
          "channelName":"My TV 3",
