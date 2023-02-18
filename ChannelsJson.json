@@ -56,7 +56,6 @@
             }
          ]
       },
-      
       {
          "id":"3",
          "channelName":"DIRECTV SPORTS PLUS",
@@ -71,7 +70,253 @@
             {
                "quality":"Forced Embed",
                "playerType":"embed",
-               "url":"https://www.telegratishd.com/directv-sports-plus-en-vivo.html",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"3",
+         "channelName":"DIRECTV SPORTS PLUS",
+         "channelImage":"htt",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"3",
+         "channelName":"DIRECTV SPORTS PLUS",
+         "channelImage":"htt",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"3",
+         "channelName":"DIRECTV SPORTS PLUS",
+         "channelImage":"htt",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1071",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"5",
+         "channelName":"DIRECTV SPORTS",
+         "channelImage":"https://www.telegratishd.com/imge/directvsports.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1058",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1057",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"6",
+         "channelName":"DIRECTV SPORTS 2",
+         "channelImage":"https://www.telegratishd.com/imge/directvsports2.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1060",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1063",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"7",
+         "channelName":"DIRECTV SPORTS EC",
+         "channelImage":"https://www.thesportsdb.com/images/media/channel/tvlogo/qjwoj61642114251.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1057",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1057",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+       {
+         "id":"8",
+         "channelName":"ESPN",
+         "channelImage":"https://www.telegratishd.com/imge/espn.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1108",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1108",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+         {
+         "id":"9",
+         "channelName":"ESPN 2",
+         "channelImage":"https://www.telegratishd.com/imge/espn2.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1099",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1099",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+      {
+         "id":"10",
+         "channelName":"ESPN 3",
+         "channelImage":"https://www.telegratishd.com/imge/espn2.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1102",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1102",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+             {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.tutelehd.xyz/online.php?a=3",
+               "contentHost":"ARG"
+            }
+         ]
+      },
+      {
+         "id":"11",
+         "channelName":"ESPN PREMIUM",
+         "channelImage":"https://www.telegratishd.com/imge/espnpremium.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1125",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1125",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.tutelehd.xyz/online.php?a=5",
+               "contentHost":"ARG"
+            }
+         ]
+      },
+      {
+         "id":"12",
+         "channelName":"ESPN EXTRA",
+         "channelImage":"https://www.telegratishd.com/imge/espnxtra.png",
+         "channelLinks":[
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1107",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://whitecup.cam/dtvpl2.html?id=1107",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+             {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.tutelehd.xyz/online.php?a=4674",
+               "contentHost":"ARG"
+            }
+         ]
+      },
+      {
+         "id":"13",
+         "channelName":"FOX SPORTS",
+         "channelImage":"https://www.telegratishd.com/imge/foxsports.png",
+         "channelLinks":[
+            {
+               "quality":"Auto Player",
+               "playerType":"auto",
+               "url":"https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"Forced Embed",
+               "playerType":"embed",
+               "url":"https://www.tutelehd.xyz/online.php?a=34",
                "contentHost":"Con los dedos haz Zoom"
             }
          ]
