@@ -545,7 +545,7 @@
      {
          "id":"29",
          "channelName":"BOOMERANG",
-         "channelImage":"",
+         "channelImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1280px-Boomerang_2014_logo.svg.png",
          "channelLinks":[
             {
                "quality":"HD",
@@ -659,7 +659,7 @@
      {
          "id":"35",
          "channelName":"NATIONAL GEOGRAPHIC",
-         "channelImage":"https://www.disneyadsales.com/wp-content/uploads/2020/06/das_nat-geo_nat-geo-wild_logo_KO.png",
+         "channelImage":"https://www.nationalgeographicla.com/images/logo.png",
          "channelLinks":[
             {
                "quality":"HD",
@@ -773,7 +773,7 @@
      {
          "id":"41",
          "channelName":"TNT",
-         "channelImage":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrd75emnnvOS4IRNZapttc_yEdwGD2QewShKdzsdT3wW_46G8yCZb3Fh7yqkyfz1yTJQ_MfkEAZRjtQkilWapwFEqWwngE_tsB2dmu-QvfYF1IFv6sOa9bVWOQm7pFVgnJ3ymPC12qh6Rem41oE8spGAF9PCcYininn6vRvnsF0ohTd-unuZ7jeQ_1/s320/pixlr-bg-result%20(2).png",
+         "channelImage":"https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033",
          "channelLinks":[
             {
                "quality":"HD",
