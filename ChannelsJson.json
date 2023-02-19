@@ -562,25 +562,7 @@
             }
          ]
       },
-     {
-         "id":"25",
-         "channelName":"WIN SPORTS +",
-         "channelImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://germanblogs.beauty/dtvpl2.html?id=1251",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://www.tutelehd.xyz/online.php?a=3305",
-               "contentHost":"Con los dedos haz Zoom"
-            }
-         ]
-      },{
+      {
          "id":"26",
          "channelName":"CARACOL HD",
          "channelImage":"https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png",
