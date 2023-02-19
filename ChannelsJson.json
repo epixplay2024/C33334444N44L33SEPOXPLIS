@@ -6,53 +6,136 @@
          "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
          "channelLinks":[
             {
-                  "quality":"HD",
+               "quality":"HD",
                "playerType":"embed",
-               "url":"https://traplawg.cam/gg50.html?uc2&get=Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExNDAvbWFuaWZlc3QubXBk&key=OTllZWZjMDY4ZGIzNTA5YjlmMGNmNWIzNDExNDIxOWQ=&key2=NmMyM2UzMWE0ZDgzYjU2OGU4NGFlYzYwOWE2M2ViYzk=",
+               "url":"https://www.tvspacehd.com/2022/10/canal-hbo.html",
                "contentHost":"Con los dedos haz Zoom"
             },
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://megatelevisionhd.com/embed/?url=Ly9saXZlNS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvSEJPLUhEL2RlZmF1bHQubXBk&kid=ZGYxOGY2YTA1YmFiMjhkODllNWRjMDFkODhmNGRlYjg=&k=YmFjZWI1MjU0NjdjMGRiMjJiYTgzMDkwNjE2YzFhZDA=&lang=0",
+               "url":"https://nosequewea.tk/dtvc?get=Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExNDAvbWFuaWZlc3QubXBk&key=OTllZWZjMDY4ZGIzNTA5YjlmMGNmNWIzNDExNDIxOWQ=&key2=NmMyM2UzMWE0ZDgzYjU2OGU4NGFlYzYwOWE2M2ViYzk=",
+               "contentHost":"Doble clic con dedos"
+           },
+           {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExNDAvbWFuaWZlc3QubXBk&k1=OTllZWZjMDY4ZGIzNTA5YjlmMGNmNWIzNDExNDIxOWQ=&k2=NmMyM2UzMWE0ZDgzYjU2OGU4NGFlYzYwOWE2M2ViYzk=&lang=0&aut=false",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+      {
+         "id":"49",
+         "channelName":"HBO 2",
+         "channelImage":"https://telefullenvivo.com/imagenes2/hbo-2.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.tvspacehd.com/2022/10/canal-hbo-2.html",
+               "contentHost":"4"
+            },
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExMzcvbWFuaWZlc3QubXBk&key2=YmFjNTgxOGE2ZTExMzVkYjNjOWYyNGZiNzUyZjY5OWY=&key=MmEyYWVkMTdkYzYwNTBmYjlkZWU2ZTY1YTA2YjM5MjU=",
+               "contentHost":"5"
+            }
+         ]
+      },
+      {
+         "id":"1",
+         "channelName":"HBO",
+         "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"",
                "contentHost":"Doble clic con dedos"
             }
          ]
       },
       {
-         "id":"4",
-         "channelName":"HBO 2",
-         "channelImage":"https://www.nicepng.com/png/detail/223-2235889_hbo-icon-angry-neighbor-hello-from-home-apk.png",
+         "id":"1",
+         "channelName":"HBO",
+         "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
          "channelLinks":[
             {
-               "quality":"Forced Embed",
+                  "quality":"HD",
                "playerType":"embed",
-               "url":"https://germanblogs.beauty/dtvpl2.html?id=1250",
-               "contentHost":"Tv en vivo"
+               "url":"",
+               "contentHost":"Con los dedos haz Zoom"
             },
             {
-               "quality":"Forced Embed",
+               "quality":"HD",
                "playerType":"embed",
-               "url":"https://www.ver-television.online/canal-hbo-en-vivo",
-               "contentHost":"XD"
+               "url":"",
+               "contentHost":"Doble clic con dedos"
+            }
+         ]
+      },
+      {
+         "id":"46",
+         "channelName":"HBO",
+         "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"",
+               "contentHost":"Con los dedos haz Zoom"
             },
             {
-               "quality":"Forced Embed",
+               "quality":"HD",
                "playerType":"embed",
-               "url":"https://www.ver-television.online/canal-hbo-en-vivo",
-               "contentHost":"3"
+               "url":"",
+               "contentHost":"Doble clic con dedos"
+            }
+         ]
+      },
+      {
+         "id":"45",
+         "channelName":"HBO",
+         "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"",
+               "contentHost":"Con los dedos haz Zoom"
             },
             {
-               "quality":"Forced Embed",
+               "quality":"HD",
                "playerType":"embed",
-               "url":"https://verlatelevision.com/hbo-en-vivo-online/",
-               "contentHost":"4"
+               "url":"",
+               "contentHost":"Doble clic con dedos"
+            }
+         ]
+      },
+      {
+         "id":"44",
+         "channelName":"STAR CHANNEL",
+         "channelImage":"https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1196",
+               "contentHost":"Con los dedos haz Zoom"
             },
-             {
-               "quality":"Forced Embed",
+            {
+               "quality":"HD",
                "playerType":"embed",
-               "url":"https://www.torrentoficial.com/web/dash.php?url=Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExNDAvbWFuaWZlc3QubXBk&k1=OTllZWZjMDY4ZGIzNTA5YjlmMGNmNWIzNDExNDIxOWQ=&k2=NmMyM2UzMWE0ZDgzYjU2OGU4NGFlYzYwOWE2M2ViYzk=&lang=0&aut=false",
-               "contentHost":"5"
+               "url":"https://whitecup.cam/dtvpl2.html?id=1196",
+               "contentHost":"Doble clic con dedos"
             }
          ]
       },
