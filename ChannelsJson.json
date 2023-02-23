@@ -836,7 +836,7 @@
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"	https://germanblogs.beauty/dtvpl2.html?id=1181",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1181",
                "contentHost":"Con los dedos haz Zoom"
             },
             {
@@ -855,7 +855,7 @@
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"	https://germanblogs.beauty/dtvpl2.html?id=1227",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1227",
                "contentHost":"Con los dedos haz Zoom"
             },
             {
@@ -874,7 +874,7 @@
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"	https://germanblogs.beauty/dtvpl2.html?id=1243",
+               "url":"https://germanblogs.beauty/dtvpl2.html?id=1243",
                "contentHost":"Con los dedos haz Zoom"
             },
             {
@@ -898,11 +898,153 @@
             },
             {
                "quality":"Auto Player",
-               "playerType":"auto",
+               "playerType":"embed",
                "url":"https://whitecup.cam/dtvpl2.html?id=1248",
                "contentHost":"HD"
             }
          ]
+      },
+      {
+         "id":"54",
+         "channelName":"One Piece 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+       {
+         "id":"55",
+         "channelName":"Bob Esponja 24/7",
+         "channelImage":"https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+       {
+         "id":"56",
+         "channelName":"Paramount+ 24/7",
+         "channelImage":"https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+       {
+         "id":"57",
+         "channelName":"CINE ACCIÓN 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+       {
+         "id":"58",
+         "channelName":"ANIME 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+       {
+         "id":"59",
+         "channelName":"COCINA 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+       {
+         "id":"60",
+         "channelName":"Pluto TV Animales 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+        {
+         "id":"61",
+         "channelName":"Animé Acción 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+        {
+         "id":"62",
+         "channelName":"Estrellas de Acción 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+        {
+         "id":"63",
+         "channelName":"AVENTURA 24/7",
+         "channelImage":"https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+            }
+         ]
+      },
+        {
+         "id":"64",
+         "channelName":"Sin Tetas No Hay Paraíso 24/7",
+         "channelImage":"https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"auto",
+               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+               "contentHost":"HD"
+             }
+         ]
       }
-   ]
-}
+    ]
