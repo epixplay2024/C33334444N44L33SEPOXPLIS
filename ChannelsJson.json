@@ -113,6 +113,101 @@
             }
          ]
       },
+     {
+         "id":"54",
+         "channelName":"Universal Cinema",
+         "channelImage":"https://verlatelevision.com/imagenes/universal-cinema.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTMvbWFuaWZlc3QubXBk&key=Y2UwYTdjODgzZTJhNTQzMGJiYTk3YTNkNjhlMGRhZjg=&key2=ZTMwZGQ0OTA4ZTY2NzYzNzM2OWRmYjY1ODJmNTRkNjQ=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTMvbWFuaWZlc3QubXBk&k1=Y2UwYTdjODgzZTJhNTQzMGJiYTk3YTNkNjhlMGRhZjg=&k2=ZTMwZGQ0OTA4ZTY2NzYzNzM2OWRmYjY1ODJmNTRkNjQ=&aut=false&lang=0",
+               "contentHost":"Zoom con los dedos"
+            }
+         ]
+      },
+     {
+         "id":"55",
+         "channelName":"Comedy",
+         "channelImage":"https://telefullenvivo.com/imagenes2/universal-comedy.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTIvbWFuaWZlc3QubXBk&key=MjUyZGRiNmU3OWRkNTM1MWJiOTVlYWMxMTE1ZDQxOTE=&key2=ZjIwNTFmMzg2MTJmMGE3MWNkZTcxNzRhM2M2YzQ1MjY=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTIvbWFuaWZlc3QubXBk&k1=MjUyZGRiNmU3OWRkNTM1MWJiOTVlYWMxMTE1ZDQxOTE=&k2=ZjIwNTFmMzg2MTJmMGE3MWNkZTcxNzRhM2M2YzQ1MjY=&aut=false&lang=0",
+               "contentHost":"Zoom con los dedos"
+            }
+         ]
+      },
+     {
+         "id":"56",
+         "channelName":"Crime",
+         "channelImage":"https://latele-envivo.com/imagenes/universal-crime.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTQvbWFuaWZlc3QubXBk&key=ZTI0MDJlZTM3MzZjNTZiM2JkNWQ1MGFjZjIzMDA5NjE=&key2=MzI5OTM3ZTVkMjM2YTM1ZmZlOTFkNmNkNzEyNWJlY2M=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTQvbWFuaWZlc3QubXBk&k1=ZTI0MDJlZTM3MzZjNTZiM2JkNWQ1MGFjZjIzMDA5NjE=&k2=MzI5OTM3ZTVkMjM2YTM1ZmZlOTFkNmNkNzEyNWJlY2M=&aut=false&lang=0",
+               "contentHost":"Zoom con los dedos"
+            }
+         ]
+      },
+     {
+         "id":"57",
+         "channelName":"Premiere",
+         "channelImage":"https://latele-envivo.com/imagenes/universal-premiere.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTYvbWFuaWZlc3QubXBk&key=ZDA4MGJlMjhhMGZjNTk3MGJmMWRlODk3ZjgwZDQwYmQ=&key2=YWI4MTg3ZDUwZDMxMWQzMGJjMGQ3ZGM2ZWI1Njk3ZDE=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTYvbWFuaWZlc3QubXBk&k1=ZDA4MGJlMjhhMGZjNTk3MGJmMWRlODk3ZjgwZDQwYmQ=&k2=YWI4MTg3ZDUwZDMxMWQzMGJjMGQ3ZGM2ZWI1Njk3ZDE=&aut=false&lang=0",
+               "contentHost":"Zoom con los dedos"
+            }
+         ]
+      },
+     {
+         "id":"58",
+         "channelName":"REALITY",
+         "channelImage":"https://latele-envivo.com/imagenes/universal-reality.png",
+         "channelLinks":[
+            {
+                  "quality":"HD",
+               "playerType":"embed",
+               "url":"https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTUvbWFuaWZlc3QubXBk&key=YzA0MDJiYTA3ZGFkNWIwY2IyMjdhZjI0OGVhMmM1ZWU=&key2=YWI0NjNmYjc4ZTdlMTdiNWUwZWU0ZWE4YmNhMzVlYzk=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.torrentoficial.com/web/dash.php?url=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTUvbWFuaWZlc3QubXBk&k1=YzA0MDJiYTA3ZGFkNWIwY2IyMjdhZjI0OGVhMmM1ZWU=&k2=YWI0NjNmYjc4ZTdlMTdiNWUwZWU0ZWE4YmNhMzVlYzk=&aut=false&lang=0",
+               "contentHost":"Zoom con los dedos"
+            }
+         ]
+      },
       {
          "id":"53",
          "channelName":"CINEMAX",
