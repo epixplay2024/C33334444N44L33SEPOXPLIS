@@ -2,6 +2,25 @@
    "channels":[
       {
          "id":"1",
+         "channelName":"TUDN",
+         "channelImage":"",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://clarovideo.sdfgnksbounce.com/tudn.php?get=Ly9pLm1qaC5uei9TYW1zdW5nVFZQbHVzL1VTQkQxNzAwMDE2WDkubTN1OA==",
+               "contentHost":"4"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://fullchannels.online/canales.php?id=tudnusa",
+               "contentHost":"Doble clic con dedos"
+           }
+         ]
+      },
+      {
+         "id":"1",
          "channelName":"HBO",
          "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
          "channelLinks":[
